@@ -6,9 +6,7 @@ This is my HTML and CSS only website for COSC2430 Web Programming Assessment 1.
 
 References (Following AGLC4):
 
-Paragraph for category)
-
-Gary Locke, “At the Bookstore – Fiction,” English Language Blog | Language and Culture of the English-Speaking World (August 26, 2016) <https://blogs.transparent.com/english/at-the-bookstore-fiction/>
+Paragraph for Category) Gary Locke, “At the Bookstore – Fiction,” English Language Blog | Language and Culture of the English-Speaking World (August 26, 2016) <https://blogs.transparent.com/english/at-the-bookstore-fiction/>
 
 Books - (there are some books references that I can't find, therefore, I decided to create a no data pop up page for them)
 
