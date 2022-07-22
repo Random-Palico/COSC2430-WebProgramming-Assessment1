@@ -21,3 +21,9 @@ Books - (there are some books references that I can't find, therefore, I decided
 5) Jeff Kinney, “Diary of a Wimpy Kid: The Deep End - Wikipedia,” Diary of a Wimpy Kid: The Deep End - Wikipedia (February 10, 2021) <https://en.wikipedia.org/wiki/Diary_of_a_Wimpy_Kid:_The_Deep_End>
 
 6) Laura Ellen Anderson , “I Don’t Want Curly Hair! By Laura Ellen Anderson,” I Don’t Want Curly Hair! by Laura Ellen Anderson (December 4, 2020) <https://www.goodreads.com/en/book/show/30318473-i-don-t-want-curly-hair>
+
+7)  Thomas Asbridge, “The Crusades,” The Crusades: The Authoritative History of the War for the Holy Land by Thomas Asbridge (August 30, 2021) <https://www.goodreads.com/book/show/7282903-the-crusades>
+
+8) Bill Bryson, “A Short History of Nearly Everything: Bryson, Bill: 8601410908072: Amazon.Com: Books,” A Short History of Nearly Everything: Bryson, Bill: 8601410908072: Amazon.com: Books (March 18, 2017) <https://www.amazon.com/Short-History-Nearly-Everything/dp/076790818X>
+
+9) Mark Manson, "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life (Mark Manson Collection Book 1)" https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive-ebook/dp/B019MMUA8S
