@@ -6,9 +6,11 @@ This is my HTML and CSS only website for COSC2430 Web Programming Assessment 1.
 
 References (Following AGLC4):
 
+Paragraph for category)
+
+Gary Locke, “At the Bookstore – Fiction,” English Language Blog | Language and Culture of the English-Speaking World (August 26, 2016) <https://blogs.transparent.com/english/at-the-bookstore-fiction/>
+
 Books - (there are some books references that I can't find, therefore, I decided to create a no data pop up page for them)
-
-
 
 1) Matthew J. Kirby, “Assassin’s Creed: Last Descendants – Tomb of the Khan | Assassin’s Creed Wiki | Fandom,” Assassin’s Creed Wiki (December 27, 2016) <https://assassinscreed.fandom.com/wiki/Assassin%27s_Creed:_Last_Descendants_%E2%80%93_Tomb_of_the_Khan#:~:text=Assassin’s%20Creed%3A%20Last%20Descendants%20%E2%80%93%20Tomb%20of%20the%20Khan%20is%20a,release%20on%2027%20December%202016.>
 
