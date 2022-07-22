@@ -27,3 +27,17 @@ Books - (there are some books references that I can't find, therefore, I decided
 8) Bill Bryson, “A Short History of Nearly Everything: Bryson, Bill: 8601410908072: Amazon.Com: Books,” A Short History of Nearly Everything: Bryson, Bill: 8601410908072: Amazon.com: Books (March 18, 2017) <https://www.amazon.com/Short-History-Nearly-Everything/dp/076790818X>
 
 9) Mark Manson, "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life (Mark Manson Collection Book 1)" https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive-ebook/dp/B019MMUA8S
+
+10) Barnes & Noble, “Attack on Titan Manga,” Barnes & Noble <https://www.barnesandnoble.com/b/series/attack-on-titan-series/_/N-2v5p#:~:text=A%20Japanese%20manga%20series%20written,man%2Deating%20humanoids%20called%20Titans.>
+
+11) “Girl with a Pearl Earring (Novel) - Wikipedia,” Girl with a Pearl Earring (novel) - Wikipedia (June 18, 2009) <https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring_(novel)>
+
+12) Rick Riordan, “The Lightning Thief (Percy Jackson and the Olympians, #1),” The Lightning Thief by Rick Riordan (June 19, 2011) <https://www.goodreads.com/book/show/28187.The_Lightning_Thief>
+
+13) Ann Whitford Paul, “If Animals Kissed Good Night by Ann Whitford Paul,” If Animals Kissed Good Night by Ann Whitford Paul (February 8, 2020) <https://www.goodreads.com/book/show/3056458-if-animals-kissed-good-night>
+
+14) 	Sam McBratney, “Guess How Much I Love You - Wikipedia,” Guess How Much I Love You - Wikipedia (January 13, 2020) <https://en.wikipedia.org/wiki/Guess_How_Much_I_Love_You>
+
+15) “Travel Activity Book - Rebecca Gilpin, Various - Google books,” Google Books <https://books.google.com.vn/books/about/Travel_Activity_Book.html?id=rbCYzgEACAAJ&source=kp_book_description&redir_esc=y>
+
+16) Book Depository, “¿Dónde Está Spot? : Eric Hill : 9780140557763,” ¿Dónde está Spot? : Eric Hill : 9780140557763 (March 17, 2005) <https://www.bookdepository.com/%C2%BFD%C3%B3nde-est%C3%A1-Spot-Eric-Hill/9780140557763>
