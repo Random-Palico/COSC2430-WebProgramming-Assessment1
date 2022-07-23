@@ -13,15 +13,14 @@ The index.html is the main page of this website, and there are other folders tha
 The other folders are CSS which contain 4 folders, each containing a style.css for each pages that I've created. Finally, the images folder contain the images I've used within the website.
 
 
-As I mentioned aabove this website is all coded with HTML and CSS. I've use smooth-scrolling to get a smooth scroll animation when the user press a link on the navigation which the website will scroll down to that specific area. There'll be buttons such as 'view more' that leads the user to another page. For those pages I've shortened the navigation list and made adjustment so that the user can browse through easier and get back to the main page with ease. 
+As I mentioned above this website is all coded with HTML and CSS. I've use smooth-scrolling to get a smooth scroll animation when the user press a link on the navigation which the website will scroll down to that specific area. There'll be buttons such as 'view more' that leads the user to another page. For those pages I've shortened the navigation list and made adjustment so that the user can browse through easier and get back to the main page with ease. 
 
 The website is responsive in smaller screen device. I've made changes such as hiding away the navigation bar since I don't know how to make a navigation bar in smaller screens without using JS or bootstrap librabries. 
 
 Time constraints, since this website assignment is due within the day I only got at least a day to get everything done. However, I think that there could be some small errors I've made or missing information.
 
-For the 'view more button' under the Featured Books area that button I was planning to create a link that list more books, but due to time constraints I've leave idea out. Therefore, the button will not lead the user to anything.
 
-To get to the book detail because I only make one page for a specific book, Press on the book 'Assassin's creed: Last Descendants' there'll be a popup box which have a view more button press on that, and it'll redirect you to the full book detail. 
+Book detail page is only a page, so when you press on another book view more button on it's pop up modal it'll redirect you to the page. However, the information will be another book as the assignment required you  to link all book to that Book detail page. Due to time constraints of the assessment and somewhat knowledge I was unable to create each pages for each books therefore, I'll come back to this website and improve it over time. 
 
 
 References (Following AGLC4):
