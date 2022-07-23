@@ -566,6 +566,26 @@ footer .navbar .navigation li a:hover {
         height: 300px;
         margin-top: 20px;
     }
+
+    .categories .content {
+        margin-top: 20px;
+    }
+    
+    .categories .content .box {
+        margin: 10px;
+    }
+
+    .categories .content .box .overlay .popup {
+        width: 90%;
+    }
+    .categories .content .box .overlay .popup {
+        margin: 100px auto;
+    }
+    .categories .content .box .imgBx {
+        height: 260px;
+    }
+
+
     .books .content {
         margin-top: 20px;
     }
