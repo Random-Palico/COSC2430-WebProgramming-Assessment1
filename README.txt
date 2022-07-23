@@ -17,7 +17,7 @@ Time constraints, since this website assignment is due within the day I only got
 
 For the 'view more button' under the Featured Books area that button I was planning to create a link that list more books, but due to time constraints I've leave idea out. Therefore, the button will not lead the user to anything.
 
-To get to the book detail because I only make one page for a specific book, in the main page press on 'Books' on the navigation bar the page will redirect you to a list of books. Press on the book 'Assassin's creed: Last Descendants' there'll be a popup box which have a view more button that will show the full book detail. If you're wondering why you have to press the book on the far right corner this is becuase I used column-reversed so everything is in reversed. 
+To get to the book detail because I only make one page for a specific book, Press on the book 'Assassin's creed: Last Descendants' there'll be a popup box which have a view more button that will show the full book detail. 
 
 
 References (Following AGLC4):
