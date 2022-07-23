@@ -307,7 +307,7 @@ footer .navbar .navigation li a:hover {
         font-size: 1.8em;
     }
     header .navbar .navigation {
-        display: none;
+        display: block;
     }
     section {
         padding: 20px;
