@@ -2,6 +2,8 @@
 
 Web link: https://a-random-bookstore.netlify.app
 
+When instally the zip file of the code, don't press on the index.html, extract the ZIP file and drag drop it into the VSCode and right click, open it with live server which will activate the style linked to this web page
+
 Description:
 
 This is my HTML and CSS only website for COSC2430 Web Programming Assessment 1.
@@ -19,7 +21,7 @@ Time constraints, since this website assignment is due within the day I only got
 
 For the 'view more button' under the Featured Books area that button I was planning to create a link that list more books, but due to time constraints I've leave idea out. Therefore, the button will not lead the user to anything.
 
-To get to the book detail because I only make one page for a specific book, Press on the book 'Assassin's creed: Last Descendants' there'll be a popup box which have a view more button that will show the full book detail. 
+To get to the book detail because I only make one page for a specific book, Press on the book 'Assassin's creed: Last Descendants' there'll be a popup box which have a view more button press on that, and it'll redirect you to the full book detail. 
 
 
 References (Following AGLC4):
