@@ -26,11 +26,11 @@
                         <h2>Contact Us</h2>
                         <div class="dropSelector">
                             <select required>
-                                <option value="" disabled selected>Select reason of contacting</option>
-                                <option value="">Sell books</option>
-                                <option value="">Complaint</option>
-                                <option value="">Feedback</option>
-                                <option value="">Other</option>
+                                <option value="reason" disabled selected>Select reason of contacting</option>
+                                <option value="sell">I want to sell books</option>
+                                <option value="buy">I want to buy books</option>
+                                <option value="feed">Feedback</option>
+                                <option value="other">Other</option>
                             </select>
                             <span class="arrow"></span>
                         </div>
@@ -45,6 +45,9 @@
                                 <input type="radio" name="preferred-contact" value="2">Phone
                             </label>
                         </div>
+
+                        <input type="text" class="field" placeholder="Your Email" required>
+                        <input type="text" class="field" placeholder="Phone (Optional)">
 
                         <div class="contactday">
                             <h3>Contact days:</h3>
@@ -75,10 +78,18 @@
                             </div>
                         </div>
 
-                        <input type="text" class="field" placeholder="Your Email" required>
-                        <input type="text" class="field" placeholder="Phone (Optional)">
-                        <textarea placeholder="Send Message" class="field" required></textarea>
+                        <div class="newsletter">
+                            <h3>Recieve Newsletter</h3>
+                            <label class="radio-inline">
+                                <input type="radio" name="newsletter" value="1" checked>Yes
+                            </label>
+                            <label class="radio-inline">
+                                <input type="radio" name="newsletter" value="2">No
+                            </label>
+                        </div>
 
+
+                        <textarea placeholder="Send Message" class="field" required></textarea>
                         <div class="inputBx">
                             <input type="reset" value="Reset">
                             <input type="submit" value="Submit">

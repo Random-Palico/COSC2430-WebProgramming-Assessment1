@@ -157,6 +157,26 @@ h2:after{
     margin-right: 3px;
 }
 
+.newsletter {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.newsletter h3 {
+    margin-bottom: 10px;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.newsletter .radio-inline {
+    padding-right: 10px;
+}
+
+.newsletter input[type="radio"] {
+    margin-right: 3px;
+}
+
+
 .contactday {
     text-align: left;
     margin-bottom: 20px;
