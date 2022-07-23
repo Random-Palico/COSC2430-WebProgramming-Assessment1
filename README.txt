@@ -15,6 +15,7 @@ The website is responsive in smaller screen device. I've made changes such as hi
 
 Time constraints, since this website assignment is due within the day I only got at least a day to get everything done. However, I think that there could be some small errors I've made or missing information.
 
+For the 'view more button' under the Featured Books area that button I was planning to create a link that list more books, but due to time constraints I've leave idea out. Therefore, the button will not lead the user to anything.
 
 
 References (Following AGLC4):
