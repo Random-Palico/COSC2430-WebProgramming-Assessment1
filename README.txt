@@ -1,6 +1,19 @@
 # COSC2430-WebProgramming-Assessment1
 
+Description:
+
 This is my HTML and CSS only website for COSC2430 Web Programming Assessment 1.
+
+The index.html is the main page of this website, and there are other folders that I've made to store my files such as Assets is to store the other pages for the website such as Contact, Category and Category 1 (same code but different information to display the sub categories) and finally books which display the book details. 
+
+The other folders are CSS which contain 4 folders, each containing a style.css for each pages that I've created. Finally, the images folder contain the images I've used within the website.
+
+
+As I mentioned aabove this website is all coded with HTML and CSS. I've use smooth-scrolling to get a smooth scroll animation when the user press a link on the navigation which the website will scroll down to that specific area. There'll be buttons such as 'view more' that leads the user to another page. For those pages I've shortened the navigation list and made adjustment so that the user can browse through easier and get back to the main page with ease. 
+
+The website is responsive in smaller screen device. I've made changes such as hiding away the navigation bar since I don't know how to make a navigation bar in smaller screens without using JS or bootstrap librabries. 
+
+Time constraints, since this website assignment is due within the day I only got at least a day to get everything done. However, I think that there could be some small errors I've made or missing information.
 
 
 
