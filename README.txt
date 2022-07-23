@@ -15,7 +15,7 @@ The other folders are CSS which contain 4 folders, each containing a style.css f
 
 As I mentioned above this website is all coded with HTML and CSS. I've use smooth-scrolling to get a smooth scroll animation when the user press a link on the navigation which the website will scroll down to that specific area. There'll be buttons such as 'view more' that leads the user to another page. For those pages I've shortened the navigation list and made adjustment so that the user can browse through easier and get back to the main page with ease. 
 
-The website is responsive in smaller screen device. I've made changes such as hiding away the navigation bar since I don't know how to make a navigation bar in smaller screens without using JS or bootstrap librabries. 
+The website is responsive in smaller screen device. I've made changes such as hiding away the navigation bar since I forgot to make one, as also there was not enough time for me to visualize and code how I want. 
 
 Time constraints, since this website assignment is due within the day I only got at least a day to get everything done. However, I think that there could be some small errors I've made or missing information.
 
