@@ -1,5 +1,7 @@
 # COSC2430-WebProgramming-Assessment1
 
+Web link: https://a-random-bookstore.netlify.app
+
 Description:
 
 This is my HTML and CSS only website for COSC2430 Web Programming Assessment 1.
