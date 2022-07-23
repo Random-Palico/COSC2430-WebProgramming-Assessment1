@@ -2,6 +2,8 @@
 
 Web link: https://a-random-bookstore.netlify.app
 
+Github link: https://github.com/Random-Palico/COSC2430-WebProgramming-Assessment1
+
 When installing the zip file of the code, don't press on the index.html, extract the ZIP file and drag drop it into the VSCode and right click, open it with live server which will activate the style linked to this web page
 
 Description:
